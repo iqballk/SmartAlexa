@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smartgsm-dfa6f",
+  "private_key_id": "2ee3f80990c6419313690daeecc1fc05a8b4ac22",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDdtr2n87ZAUOn0\nHA0UITNe8DxPt1vn3YxfHchjP/QQrK3Avh45k6HZA3Y6Z3+1AkkJ7vbwaEm0Jmsj\nWylfxTyAr5w2VsN8P2E796mjuhDMXBpRA/KZAGtXUs71N1md9SGPkfxPkoCMCnd5\nxOh4rMi6FsaYJaFkq1/OnjXRoIOMPB6lVARWWPQCiN9xb8yw3sdAk0nao4qZ1mwq\nwubYERFw/Bc51+3hfTUeA/G3hXpXehLwpJZ3N3+ab+2ieTyhf0XIDJL/fhCW5zKk\nmwQ37L2Op5J1+tGjdRGtE4QKWINPNMjlvzRH58eJIgQ7jEGItu5gGBSfB7hUI2E4\nelIOBKbLAgMBAAECggEAEUuRtzSgu/BT6mdMceHhIv/J2fdrY5v5uOsW2FSDJ9CA\nlq99+28pH0emL7TRK9VAzgCRIicl0Lgf1W3laAN3znC51oH61TS7KLVky1EsFvT8\nVzjf8iWBOhpLQKplAu2+BM1riZLbv5DgHw9INIRYqC43UbkQbPedYqh0JE/JfeUx\nfIotPsj+eHSZ+zi8hV5gUcfDvGpJNaaoV8JlxsqBMLa1QKGFZVfxpdedz5a7bYGz\nKCy67uruzqi6VtCs3FmD3mtOAI/Z8zVjvUl1H2I3b3nJ30ELITAK7+1UyDS6snQM\ndglYeDK906IYbuQFppIPnsnlbNqhun3BM8UR6F0DAQKBgQD561TA3ZNOEspk/K/e\nJ/m1wqKcG2SEHOL3nQT7IbeQsaXQzsfgWt2wxNIh5Ar3OBg+w1SgVODGnC2aTn1J\nv3JNHaq+G9nT1ktWXZpvfRbl4VaodH6S+vXNX8TU3d/vreKcj/I2XQ+bivZZ4idX\nTboUZNtCzo6KYtPwjvhJNmVmgQKBgQDjG7oapVfwEzXRi5kaaW+oehSF8fRQySv5\nO0PC0zIHMBPcU2N59jCZ8QI5fZ9zNBcRKG1mb8LqQQhFoWH3vTF/mq7tDHoIJ2mW\neOrLZyjkfrOlABZjxNS4y2qGGh4yOaUm1t7PVkt1vArHj2+JgYY/aE7z5QBRwbtI\nl7N1P+YfSwKBgQDbAf4gkUugFFlmzAT2IoPyYyEKufqIx6OiJ+iQhkiNtQ/A/yQr\nGJXDbYdTibqOUIr2nUfQxPDBO2W/Hl8uvGVW7NOOi2uE9vrIMXi/kJf7VVASiRvO\ng7vZgL5FaDXwnKnEV2SDfWPLA6jEtamSGRwi+Qsn7Uj+PoLKAQ/VYKTVgQKBgQCB\nHYNZoMT09Ub0oePiMy1K4FUIrb0TrLt2T24/tihME9ZGvZXhgcixzGZSXwwmx+eR\nVqWTxlhPK7fTNmPnH8WjYUKv/Bboyddqt8Xs6/JArZPea8VO5Vl20hb2tKSUM1ek\nVCaKQ+pUvhp2yCJGT8AODnRMjtX2pSifpbdeInznLwKBgQCJltqRAb7TUWs0s5Sn\nd3RJfxl1vdJYkGlJx/T4MdDItMVvlEDK7rMhew7DDdXUWlIynAjEY3MxW8GAWhu9\nSs6o1ovGrFb8xvPGKrmcypSRsvTac45XsPzkms4zVsTLEfnza7v00ul+AsgKEEcZ\nZQeXOKahfxXlS3AxJpBpOhigvA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "smartalexa@smartgsm-dfa6f.iam.gserviceaccount.com",
+  "client_id": "102833329481057114402",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smartalexa%40smartgsm-dfa6f.iam.gserviceaccount.com"
+}
